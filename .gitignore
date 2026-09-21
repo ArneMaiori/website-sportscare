@@ -1,0 +1,8 @@
+# Privacy & Local Data
+data/
+*.csv
+
+# OS & IDE Junk
+.DS_Store
+.vscode/
+.idea/
